@@ -17,6 +17,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6f946050-d1eb-4dd8-a5a6-86d2d5bbe700" width="100%" />
+  <br><br>
   <img src="https://github.com/user-attachments/assets/d41b3359-77f9-4fae-a45d-36212723a5c7" width="100%" />
 </p>
 
@@ -56,19 +57,5 @@ pip install -r requirements.txt
 
 > This tool is intended **ONLY** for authorized penetration testing, research, and educational purposes.  
 > Misuse of this tool may result in **criminal charges**. The developers do not accept any responsibility for illegal usage.
-
----
-
-## 🤝 Contributing
-
-Pull requests, suggestions, and feature improvements are welcome!  
-Check `CONTRIBUTING.md` before starting.
-
----
-
-## 📄 License
-
-MIT License  
-© 2025 SATE Project by [your name or handle]
 
 ---
