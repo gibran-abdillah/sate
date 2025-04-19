@@ -158,7 +158,7 @@ class BaseScan:
             elif software_type == 'themes':
                 self.themes.add(slug)
         
-        logger.info(f'Get total {len(self.plugins)} plugins and {len(self.themes)} in {self.url}')
+        logger.info(f'Get total {len(self.plugins)} plugins and {len(self.themes)} theme(s) in {self.url}')
         
 
         return True 
