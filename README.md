@@ -59,17 +59,3 @@ pip install -r requirements.txt
 > Misuse of this tool may result in **criminal charges**. The developers do not accept any responsibility for illegal usage.
 
 ---
-
-## 🤝 Contributing
-
-Pull requests, suggestions, and feature improvements are welcome!  
-Check `CONTRIBUTING.md` before starting.
-
----
-
-## 📄 License
-
-MIT License  
-© 2025 SATE Project by [your name or handle]
-
----
